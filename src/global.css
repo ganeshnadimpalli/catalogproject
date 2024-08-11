@@ -5,7 +5,7 @@ body {
 }
 :root {
   /* fonts */
-  --font-abel: Abel;
+  --font-abel: Roboto;
 
   /* font sizes */
   --font-size-lg: 18px;
